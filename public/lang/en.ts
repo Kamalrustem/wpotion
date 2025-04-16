@@ -159,7 +159,7 @@ export default {
 	Help: 'Help',
 	Helps: 'Helps',
 	'Log out': 'Log out',
-	'Type to search...': 'Type to search...',
+	'Type to search...': 'مالذي تبحث عنه ...',
 	'Newtest to oldest': 'Newtest to oldest',
 	'Oldest to newest': 'Oldest to newest',
 	'A to Z': 'A to Z',

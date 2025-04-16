@@ -1,7 +1,7 @@
 export default {
 	'Show all photos': 'Show all photos',
 	'On this page': 'On this page',
-	'We are on socials': 'We are on socials',
+	'We are on socials': 'تابعنا لتحصل على أفضل محتوى تعليمي في كل مايخص الووردبريس والسيو',
 	'Please wait a moment before trying again':
 		'Please wait a moment before trying again',
 	'Replying comment': 'Replying comment',
@@ -180,7 +180,7 @@ export default {
 	Bookmarks: 'Bookmarks',
 	'Sign in to your account': 'Sign in to your account',
 	'Copy link': 'Copy link',
-	'Link copied to clipboard': 'Link copied to clipboard',
+	'Link copied to clipboard': 'تم نسخ الرابط للحافظة',
 	Submit: 'إرسال',
 	'Something went wrong': 'Something went wrong',
 	'Please try again later': 'Please try again later',
@@ -188,7 +188,7 @@ export default {
 	'GraphQL error': 'GraphQL error',
 	'Loading ...': 'Loading ...',
 	Refetch: 'Refetch',
-	'Comment this post': 'Comment this post',
+	'Comment this post': 'التعليقات في هذا المقال',
 	'Edit post': 'Edit post',
 	'Publish post': 'Publish post',
 	'Move to Pending': 'Move to Pending',

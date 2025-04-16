@@ -199,9 +199,9 @@ export default {
 	pageSingle: {
 		'WRITTEN BY': 'WRITTEN BY',
 		'Show more comments': 'عرض المزيد من التعليقات',
-		Responses: 'Responses',
+		Responses: 'التعليقات',
 		'You must login to comment': 'You must login to comment',
-		'Add to discussion': 'Add to discussion',
+		'Add to discussion': 'هل لديك رأي؟ ابدأ أو شارك إلى النقاش!',
 		'Create comment successfully! However, it needs to be approved by the administrator before it will be displayed.':
 			'Create comment successfully! However, it needs to be approved by the administrator before it will be displayed.',
 	},

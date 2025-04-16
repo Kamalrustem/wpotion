@@ -17,15 +17,6 @@
 		"right_image": "/images/SVG-subcribe2.png",
 		"features_list": ["Create a free account.", "Write your stories."]
 	},
-	"top_banner": {
-		"enable": true,
-		"description": "-50% Intro price for the next 72 hours only!.",
-		"end_link": {
-			"url": "https://themeforest.net/item/ncmaz-nextjs-headless-wordpress-blog-magazine/47815656",
-			"text": "Buy now  →",
-			"new_tab": true
-		}
-	},
 	"top_category_section": {
 		"enable": true,
 		"title": "Discover top 10 categories",

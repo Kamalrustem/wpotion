@@ -130,7 +130,7 @@ export default {
 	'Email and username are required!': 'Email and username are required!',
 	'Email or username are required!': 'Email or username are required!',
 	'Email are required!': 'Email are required!',
-	'Enter your email': 'أدخلال ايميلك',
+	'Enter your email': 'أدخل ايميلك',
 	Password: 'كلمة السر',
 	'Sign up': 'تسجيل حساب جديد',
 	'Sign in': 'تسجيل الدخول',

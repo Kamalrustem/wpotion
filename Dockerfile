@@ -10,4 +10,4 @@ RUN npm run build
 
 EXPOSE 3000
 
-CMD ["npx", "next", "start"]
+CMD ["npx", "faust", "start"]

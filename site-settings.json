@@ -35,8 +35,8 @@
 		"site_zip": "Your Zip",
 		"site_country": "Your Country",
 		"site_url": "https://www.yoursite.com",
-		"site_logo": "/logo-hostalika.svg",
-		"site_logo_light": "/logo-hostalika-dark.svg",
+		"site_logo": "/hostalika.svg",
+		"site_logo_light": "/hostalika.svg",
 		"site_favicon": "/favicon.png"
 	},
 	"site_socials": [
@@ -82,7 +82,7 @@
 	"search_page": {
 		"recommended_searches": {
 			"enable": true,
-			"title": "Recommended searches",
+			"title": "عمليات البحث المقترحة",
 			"items": [
 				{
 					"title": "Programming",

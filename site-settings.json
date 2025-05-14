@@ -4,11 +4,11 @@
 	"mailpoet_list_id": "3",
 	"subcription_widget": {
 		"enable": true,
-		"title": "Stay up to date",
-		"description": "Get notified when I publish something new, and unsubscribe at any time.",
-		"placeholder": "Enter your email address",
-		"success_message": "Thank you for subscribing. You're in!",
-		"error_message": "Something went wrong. Please try again. If the problem persists, you can contact me."
+		"title": "ابقى على اطلاع",
+		"description": "احصل على إشعار عندما نقم بنشر شيء جديد، ويمكنك إلغاء الاشتراك في أي وقت.",
+		"placeholder": "أدخل إيميلك",
+		"success_message": "شكرًا لاشتراكك. أنت مشترك في قائمتنا البريدية!",
+		"error_message": "حدث خطأ ما. يُرجى المحاولة مرة أخرى. إذا استمرت المشكلة، يُرجى التواصل معنا."
 	},
 	"newsletter_section": {
 		"enable": true,

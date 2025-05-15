@@ -255,8 +255,8 @@
 		"title": "Privacy Policy"
 	},
 	"empty_state": {
-		"title": "No results found.",
-		"description": "We couldn’t find any results. Try for something else."
+		"title": "لم يتم العثور على أي نتائج",
+		"description": "عذرًا، لم نجد أي مقالات ضمن هذا التصنيف حاليًا. نعمل باستمرار على إضافة محتوى جديد، لذا يرجى العودة لاحقًا أو تصفح التصنيفات الأخرى."
 	},
 	"discussion_settings": {
 		"enable": true,
